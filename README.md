@@ -10,7 +10,6 @@ A movie ticket booking app built in React JS
  ## How to run
  Run the following commands
  ```
-git clone https://github.com/jitesh-pahalwani/movie-ticket-booking-ui.git
 cd movie-ticket-booking-ui
 npm install
 npm start
